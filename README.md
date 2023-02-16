@@ -1,1 +1,2 @@
 # 2MDR
+We developed 2MDR (MultiModal visual stimulation to Desensitize Rodents) - a novel, open-source, low-cost, customizable device for psychotherapy-like treatments in mice that can be integrated in and TTL-controlled by commercial rodent behavioral setups. 2MDR allows to design and precisely steer multimodal visual stimuli in the head direction of freely-moving mice. Optimized videography allows to semi-automatically analyze rodent behavior during visual stimulation. 
